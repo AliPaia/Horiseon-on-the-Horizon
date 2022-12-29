@@ -4,6 +4,10 @@
     margin: 0;
 }
 
+.wrapper {
+    width: 100;
+}
+
 body {
     background-color: #d9dcd6;
 }
