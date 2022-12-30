@@ -67,12 +67,6 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
-<!-- Consider accessible features below -->
-<!-- color / contrast / text size -->
-<!-- contrast -->
-<!-- design focus states () -->
-<!-- form labels -->
-<!-- alt tags for images -->
 
 ## Mock-Up
 
